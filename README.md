@@ -73,12 +73,12 @@ You **must** use a local server (due to API + CORS).
 ### Option 2 — Python
 ```sh
 python -m http.server 3000
-
+```
 
 ### Option 3 — NPM
 ```sh
 npx http-server .
-
+```
 
 Then open:
 
